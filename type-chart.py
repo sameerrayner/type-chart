@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.colors as colors
 import seaborn as sns
-from matplotlib import font_manager as fm, rcParams
+from matplotlib import font_manager as fm
 
 prop = fm.FontProperties(fname = r"C:\Users\Sameer\OneDrive\Documents\Pokemon Classic.ttf")
 
